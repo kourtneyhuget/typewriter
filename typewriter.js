@@ -11,12 +11,3 @@ function sentenceDelay(sentence) {
 }
 
 sentenceDelay(sentence + "\n");
-
-// const intervalId = setInterval(sentenceDelay, (1000)[sentence]);
-
-// const sentence = "Hello there from lighthouse Labs";
-// setInterval(function () {
-//   for (const char of sentence) {
-//     process.stdout.write(char);
-//   }
-// }, 50);
